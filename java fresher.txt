@@ -1,0 +1,3 @@
+java fresher
+::core java,adv java,spring,spring boot,oracle,html,css,js,reactjs
+basic tools like log4j:git ,maven,unit and etc

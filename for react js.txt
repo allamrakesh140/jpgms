@@ -1,0 +1,5 @@
+for react js:
+
+
+install git
+download and install node js

@@ -1,0 +1,23 @@
+import java.util.Scanner;
+public class primerange{
+public static void main(String []args)
+{
+Scanner sc=new Scanner(System.in);
+int m=sc.nextInt();
+int n=sc.nextInt();
+int factorcount=0;
+  for(int i=m;i<=n;i++)
+  {
+ for(int j=1;j<=i;j++)
+ {
+   if(i%j==0)
+   {
+   factorcount++;
+   }
+   if(factorcount==2)
+   {
+    System.out.println(i);
+   }
+ }
+}
+}}
